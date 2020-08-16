@@ -1,9 +1,8 @@
 import React, {useState} from 'react'
 import db from '../firebase-config'
+import firebase from 'firebase'
 import { useStateValue } from '../StateProvider'
-import firebase from "firebase"
 import './ChatInput.css'
-
 
 function ChatInput({channelName, channelId}) {
 
@@ -16,10 +15,9 @@ function ChatInput({channelName, channelId}) {
         if(channelId){
             db.collection('rooms').doc(channelId).collection('messages').add({
                 message: input,
-                timestamp: firebase.firestone.FieldValue.serverTimestamp(),
+                timestamp: firebase.firestore.FieldValue.serverTimestamp(),
                 user: user.displayName,
                 userImage: user.photoURL
-
             })
 
         }

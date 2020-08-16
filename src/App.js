@@ -32,7 +32,9 @@ function App() {
 						</div>
 					</>
 				) : (
-					<Login />
+					<Route path='/'>
+						<Login />
+					</Route>
 				)
 			}
 			</BrowserRouter>

@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Slacker
+
+This Website Slacker is the clone of slack which is one of the chatting App. In Slacker you can chat realtime with other people by using firsbase as database. We can also add the New channel and chat with each other. The Frontend is build in React with help of context API and other React Hooks
+
+## Technology stack used : 
+
+React, Firebase, Material UI
 
 ## Available Scripts
 
