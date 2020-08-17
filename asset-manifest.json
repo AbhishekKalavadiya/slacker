@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/slacker/static/css/main.9fceb674.chunk.css",
-    "main.js": "/slacker/static/js/main.0ab1a260.chunk.js",
-    "main.js.map": "/slacker/static/js/main.0ab1a260.chunk.js.map",
+    "main.js": "/slacker/static/js/main.c6090fb7.chunk.js",
+    "main.js.map": "/slacker/static/js/main.c6090fb7.chunk.js.map",
     "runtime-main.js": "/slacker/static/js/runtime-main.1a7e160f.js",
     "runtime-main.js.map": "/slacker/static/js/runtime-main.1a7e160f.js.map",
     "static/js/2.1a4dbcfe.chunk.js": "/slacker/static/js/2.1a4dbcfe.chunk.js",
     "static/js/2.1a4dbcfe.chunk.js.map": "/slacker/static/js/2.1a4dbcfe.chunk.js.map",
     "index.html": "/slacker/index.html",
-    "precache-manifest.16a807103fd238220825a6c1705f11e1.js": "/slacker/precache-manifest.16a807103fd238220825a6c1705f11e1.js",
+    "precache-manifest.829f8f2629d50620842b16d8d40d44a5.js": "/slacker/precache-manifest.829f8f2629d50620842b16d8d40d44a5.js",
     "service-worker.js": "/slacker/service-worker.js",
     "static/css/main.9fceb674.chunk.css.map": "/slacker/static/css/main.9fceb674.chunk.css.map",
     "static/js/2.1a4dbcfe.chunk.js.LICENSE.txt": "/slacker/static/js/2.1a4dbcfe.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1a7e160f.js",
     "static/js/2.1a4dbcfe.chunk.js",
     "static/css/main.9fceb674.chunk.css",
-    "static/js/main.0ab1a260.chunk.js"
+    "static/js/main.c6090fb7.chunk.js"
   ]
 }
